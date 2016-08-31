@@ -1,0 +1,75 @@
+body{
+	margin:10px;
+}
+
+.Clear{
+	clear:both;
+}
+
+#navcontainer ul {
+ 	list-style-type: none; 
+ 	margin: 0px;
+	padding:10px;
+}
+
+#navcontainer ul li { 
+	display: inline; 
+}
+#navcontainer li{
+	padding: 10px;
+
+}
+
+.sectionarticle{
+	
+
+}
+
+.article{
+	/*background-color:green;*/
+	float:right;
+	width:67%;
+	padding:1%;
+	
+	
+}
+
+.aside{
+	width:29%;
+	/*background-color:red;*/
+	padding:1%;
+	
+}
+
+.vinstri{
+	float:left;
+	width:33%;
+	
+}
+
+.midja{
+	float:left;
+	width:33%;
+	
+}
+
+.haegri{
+	float:right;
+	width:33%;
+	
+}
+
+.teaser1{
+	width:49%;
+	float:left;
+	
+	
+}
+
+.teaser2{
+	width:49%;
+	float:right;
+	
+	
+
+}
