@@ -1,0 +1,8 @@
+$ cd '/h/VSH2016/github'
+$ git init
+$ git status
+git add 'glosur.txt'
+$ git status
+git commit -m 'Test bull'
+$ git add .
+$ git commit -m 'blyat'
