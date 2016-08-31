@@ -1,8 +1,34 @@
-$ cd '/h/VSH2016/github'
+$ cd /h/VSH2016/
+$ git pull https://github.com/LeonardPotato/verkefni1.git
+
+$ git status
+$ git add glosur.txt
+$ git status
+$ git commit -m Uppfærsla hugbúnaðar
+
+$ git commit -m blyat
+
+$ git push https://github.com/LeonardPotato/verkefni1.git master
+
+
+
 $ git init
-$ git status
-git add 'glosur.txt'
-$ git status
-git commit -m 'Test bull'
-$ git add .
-$ git commit -m 'blyat'
+
+
+
+2608993339@TV639-040x MINGW64 /h/VSH2016
+$ cd /h/VSH2016
+
+2608993339@TV639-040x MINGW64 /h/VSH2016
+$ git init
+Initialized empty Git repository in H:/VSH2016/.git/
+
+2608993339@TV639-040x MINGW64 /h/VSH2016 (master)
+$ git pull https://github.com/LeonardPotato/verkefni1.git
+remote: Counting objects: 8, done.
+remote: Compressing objects: 100% (5/5), done.
+remote: Total 8 (delta 1), reused 0 (delta 0), pack-reused 0
+Unpacking objects:  12% (1/8)
+Unpacking objects: 100% (8/8), done.
+From https://github.com/LeonardPotato/verkefni1
+ * branch            HEAD       -> FETCH_HEAD
